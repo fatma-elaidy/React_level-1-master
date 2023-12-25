@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <header className="hide-when-mobile">
-        <h1>Courses 4 Arab</h1>
+        <h1>courses wepsite</h1>
         <ul className="flex">
           <li className="main-list">
             <a className="main-link" href="www">
@@ -136,7 +136,7 @@ function App() {
         HTML &amp; CSS only
       </main>
       <footer>
-        Designed and developed by Courses4Arab.com
+        Designed and developed by Courses.com
         <span>🧡</span>
       </footer>
     </>
